@@ -28,8 +28,8 @@ Soy un **Desarrollador Web FrontEnd** con experiencia en **React**, **JavaScript
 
 ## 🔗 Últimos Repositorios
 
-[![Agencia Digital](https://github.com/DavidB26/agency-setup)
-[![Supermercado Jokr ](https://github.com/DavidB26/jokr-react)
+[Agencia Digital](https://github.com/DavidB26/agency-setup)
+[Supermercado Jokr ](https://github.com/DavidB26/jokr-react)
 
 ---
 
