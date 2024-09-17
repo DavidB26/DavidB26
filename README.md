@@ -1,16 +1,44 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy David B
 
-<!--
-**DavidB26/DavidB26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20B-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/david-beslanga/))
+[![GitHub](https://img.shields.io/badge/GitHub-David%20B-black?style=flat-square&logo=github)](https://github.com/DavidB26)
+[![Correo](https://img.shields.io/badge/Correo-tuemail%40ejemplo.com-informational?style=flat-square)](mailto:contact@davidbeslanga.com)
 
-Here are some ideas to get you started:
+Soy un **Desarrollador Web FrontEnd** con experiencia en **React**, **JavaScript**, **Tailwind** y **Wordpress**. Apasionado por crear soluciones eficientes y elegantes para problemas complejos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+
+## 📊 Mis estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DavidB26&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidB26&layout=compact&theme=radical)
+
+---
+
+## 🔗 Últimos Repositorios
+
+[![Agencia Digital](https://github.com/DavidB26/agency-setup)
+[![Supermercado Jokr ](https://github.com/DavidB26/jokr-react)
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+Puedes encontrarme en:
+- **LinkedIn**: [David B](https://www.linkedin.com/in/tuusuario)
+- **Correo**: [tuemail@ejemplo.com](mailto:contact@davidbeslanga.com)
+
+---
+
+¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones en proyectos interesantes y emocionantes.
