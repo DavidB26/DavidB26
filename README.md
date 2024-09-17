@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David B
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20B-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/david-beslanga/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-beslanga-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/david-beslanga/])
 [![GitHub](https://img.shields.io/badge/GitHub-DavidB26-black?style=flat-square&logo=github)](https://github.com/DavidB26)
 [![Correo](https://img.shields.io/badge/Correo-contact@davidbeslanga.com-informational?style=flat-square)](mailto:contact@davidbeslanga.com)
 
