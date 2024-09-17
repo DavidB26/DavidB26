@@ -36,7 +36,7 @@ Soy un **Desarrollador Web FrontEnd** con experiencia en **React**, **JavaScript
 ## 📫 ¿Cómo contactarme?
 
 Puedes encontrarme en:
-- **LinkedIn**: [David B](https://www.linkedin.com/in/tuusuario)
+- **LinkedIn**: [David B](https://www.linkedin.com/in/david-beslanga)
 - **Correo**: [tuemail@ejemplo.com](mailto:contact@davidbeslanga.com)
 
 ---
