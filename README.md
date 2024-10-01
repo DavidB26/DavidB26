@@ -21,7 +21,7 @@ Soy un **Desarrollador Web FrontEnd** con experiencia en **React**, **JavaScript
 
 ## 📊 Mis estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DavidB26&show_icons=true&theme=radical)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidB26&layout=compact&theme=radical)
 
 ---
